@@ -7,6 +7,10 @@ title: Changelog
 
 ## main
 
+* Add missing config options to `config.view_component`.
+
+    *Simon Fish*
+
 ## 2.52.0
 
 * Add ADR for separate slot getter/setter API.
